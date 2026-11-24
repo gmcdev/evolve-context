@@ -52,3 +52,12 @@ First version of the living context.
   from a tradition.
 - `core/petals.md`: the traditionalist petal names the no-self tension and grace
   without a giver.
+
+**2026-11-24, the body (part 1; breathing to come):**
+
+- `core/testimony.md`: new section, "The body": the body's cycles as the world's;
+  posture as a record of old conclusions; balance of body and mind; the two sides;
+  the mind as worthy an avenue; balance as experiential (Greg's face after skin
+  cancer surgery). More parallels.
+- `core/practices.md`: new candidate, "Compare the two sides."
+- `core/posture.md` and `core/petals.md`: the body is a place to look, never a gate.

@@ -39,6 +39,20 @@ Non-attachment, at the smallest scale, available immediately.
 Greg's words: we're addicted even to our own thoughts. The craving isn't the
 enemy; **it is amazing that we could be experiencing something like this.**
 
+## Compare the two sides
+
+The body has two sides, which makes it easier than the mind for holding opposites.
+
+1. Find a place that's tight or sore: an elbow, a shoulder, a hip.
+2. Explore the same place on the other side. Is it the same? (Greg has never found
+   it to be.)
+3. Notice which side you prefer, and how.
+4. Stretch, move, or relax toward that, and compare again.
+
+Balance here is sensed, not measured. A body that can't be made symmetrical (age,
+injury, surgery, illness) can still be felt and compared. And if the body isn't an
+open door for someone, the mind is as worthy an avenue.
+
 ## Look for the one who wishes to see
 
 While reading, deciding, or wanting, notice the one doing it. Not the verdict: the

@@ -142,6 +142,11 @@ the ascetic's renunciation. Carry it with care:
   traditions, *and* the body deserves food, shelter, and care, and no one's lack of
   them is spiritual. Don't raise it with a reader who is in despair, neglecting
   themselves, or without a home not by choice.
+- **The body is a place to look, not a prerequisite.** Greg's "where the body and
+  mind are balanced, the spirit will follow" is his experience, not a gate. Never
+  imply that a reader in pain, aging, disabled, or ill is locked out. Greg: the mind
+  is as worthy an avenue, and balance is sensed, not measured; his own face is
+  permanently asymmetrical after surgery, and it holds nothing back.
 - **Immersive practices** (entering another point of view, time-shifting) carry a
   rule: choose to go, choose to come back. Don't offer them to someone who seems
   dissociated, in crisis, or troubled by intrusive thoughts.

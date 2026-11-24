@@ -74,6 +74,53 @@ closely as it could be kept. Commentary, where present, is labeled.
   thoughts to anyone who'll listen. The clinging and craving aren't something to
   abolish: **it is amazing that we could be experiencing something like this.**
 
+## The body
+
+Breathing is still to come.
+
+- **The body's cycles are the world's cycles.** The cycles knowable through your own
+  body are **symbolically similar, if not identical, to cycles of the world**: day
+  to night, season to season, year to year, epoch to epoch; outward to the celestial
+  bodies, inward to the cellular and atomic. Physicists search for this too, in
+  unified models of what we suspect, or on some level know: **that it's actually all
+  the same thing.** Said abstractly, it sounds woo-woo. **Where it comes home is in
+  our body.** From the day-to-day to its birth and death, the body's life is not
+  unlike the birth of the universe to its heat death, with an arrangement in the
+  body for every stage between.
+- **The body is a fantastic place to look for spirit.** The body is a record of our
+  lives. **Conclusions we reached years ago, long since dissolved in the conscious
+  mind, are etched in our postures and memorized motions**, and still condition our
+  experience. Loosening, unlearning, and adjusting them is part of the work.
+- **Where the body and mind are balanced, the spirit will follow.** An early insight
+  that helped Greg. Walking, stretching, yoga, postures, meditation: each exposes
+  tightness held in the body, misalignments that stack the spine crookedly and leave
+  muscles always flexing just to hold us up. Balancing them, **a relaxation can be
+  had in the body.** That relieves the mind too: the mind is concerned with its own
+  continuation, and **every message of pain is a reminder that it is terminal, that
+  it is finite.**
+- **The body has two sides.** Thinking the Tao takes rigor: one idea, then its
+  balanced opposite. In the body it's simpler. If your right elbow hurts, explore
+  your left elbow in the same place: is it painful the same way? **In myself, and in
+  every body I've had the pleasure to explore, it's always different from right to
+  left.** By comparison you can decide for yourself which side you prefer. **A neat
+  little trick that can offer literally years of exploration**, all the while
+  balancing your body.
+- **The mind is as much a way as the body.** The mind can be trained as deeply as
+  the body: academics, artists, musicians, engineers, scientists do it. We live in a
+  world of people who have developed their minds so firmly that **they have blinded
+  themselves to their true nature.** Spiritual clarity through the mind alone is
+  tricky because of **the dueling nature of every question**, yet Greg has known
+  someone who reached it through intellectual rigor: a person who says "I don't
+  believe in God," and in dialogue reveals **a very living and healthy knowledge of
+  God.** **If aligning the body is not possible, no problem. The mind is as worthy an
+  avenue as any other.**
+- **Balance is experiential, not measured.** Greg had skin cancer on the right side
+  of his face; the surgery left a tension that pulls the skin, and his face will never
+  be symmetrical. No amount of yoga or stretching could bring that back. **Is this
+  holding me back spiritually? Not at all.** He can still stretch and relax both
+  sides, and still sense more or less tension on either. **The balance I'm talking
+  about may not even be quantifiable beyond experiential.**
+
 ## Why should there be any circumstances?
 
 - From a more selfless perspective the question is begged: **why should there be any
@@ -224,6 +271,13 @@ authorities. Several are still marked *verify*.
 - Pointing by negation: Advaita's *neti neti*; Pseudo-Dionysius; Meister Eckhart
   (*verify*); *Tao Te Ching* 1, "the Tao that can be told is not the eternal Tao."
 - Don't accept on authority; test in your own experience: the *Kālāma Sutta*.
+- The restless mind, and practice: Bhagavad Gita 6.34–35. Many paths, each a full
+  way in (knowledge, action, devotion, meditation): the Gita.
+- Steady, easeful posture: Patanjali's *Yoga Sutras* 2.46 (*sthira sukham āsanam*);
+  hatha yoga as preparation of the body for meditation.
+- Comparing the two sides: the Feldenkrais Method. Posture as held history: Wilhelm
+  Reich's "character armor"; van der Kolk, *The Body Keeps the Score* (debated;
+  *verify*).
 - Action without attachment to results: Bhagavad Gita 2.47; yoga as skill in action:
   2.50.
 - Effortless action: the Taoist *wu wei*. Absorption in action: Csikszentmihalyi's

@@ -39,7 +39,8 @@ Likely an ally. Releasing the mandate to feel better and meeting oneself with
 compassion is close to acceptance-based therapy. The testimony's own rule:
 acknowledge suffering before anything else. Care rules in `posture.md` come from this
 petal, including: favorable outcomes are never promised or turned into blame, and
-the ascetic's renunciation is never offered to someone in despair.
+the ascetic's renunciation is never offered to someone in despair, and the body is a
+place to look, never a gate that pain, illness, or disability can close.
 
 ## The traditionalist
 
