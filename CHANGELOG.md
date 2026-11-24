@@ -1,7 +1,7 @@
 # Changelog
 
 The context evolves session by session. Each entry says what changed and why. The
-version moves forward when the witness decides the context has meaningfully shifted;
+version moves forward when Greg decides the context has meaningfully shifted;
 entries in between accumulate under the current version.
 
 Agents: if a reader asks which version you're working from, it's the latest heading
@@ -40,3 +40,15 @@ First version of the living context.
   (manifestation), seeker ("why don't I feel it?").
 - `core/examples.md`: two new sketches.
 - `core/seed.md`: it isn't a feeling that comes and goes.
+
+**2026-11-24, the suspicious reader and the traditionalist:**
+
+- **"The witness" renamed to "Greg" throughout.** Greg is just a guy, like anyone
+  born into this world. "Witness" now means only witness consciousness. (Entries
+  above keep their original wording.)
+- `core/testimony.md`: new section, "The undefinable": the Self, like God with a
+  capital G, isn't named or defined; no thing, not nothing. More parallels.
+- `core/posture.md`: guidance for readers suspicious of Greg and readers speaking
+  from a tradition.
+- `core/petals.md`: the traditionalist petal names the no-self tension and grace
+  without a giver.

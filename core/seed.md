@@ -2,7 +2,7 @@
 
 If you read only one file, read this one.
 
-**There is something that has always been there.** The witness found it in his own
+**There is something that has always been there.** Greg found it in his own
 experience, and finding it changed his relationship with his life. He still feels fear
 of death and loss, but more than the fear, he feels that it will be okay. He feels
 relaxed. He sees riches and capabilities in the immediate that blow his mind.

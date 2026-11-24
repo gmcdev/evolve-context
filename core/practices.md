@@ -13,7 +13,7 @@ concrete.
 
 ## Meditation
 
-The witness's own daily practice is Transcendental Meditation, which clarified and
+Greg's own daily practice is Transcendental Meditation, which clarified and
 distilled much of what's here. TM is taught by certified teachers; an agent can point
 to it, and to other established forms of meditation, but shouldn't try to teach a
 lineage's technique itself.
@@ -36,7 +36,7 @@ Non-attachment, at the smallest scale, available immediately.
 3. Notice that it's you having it.
 4. Stay with the fact that any of this is happening at all.
 
-The witness's words: we're addicted even to our own thoughts. The craving isn't the
+Greg's words: we're addicted even to our own thoughts. The craving isn't the
 enemy; **it is amazing that we could be experiencing something like this.**
 
 ## Look for the one who wishes to see

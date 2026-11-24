@@ -1,7 +1,7 @@
 # The one who wishes to see
 
-*A passage in the witness's voice, built from his own phrases by his co-author and
-kept by the witness. For the reader who wants proof. Provisional.*
+*A passage in Greg's voice, built from his own phrases by his co-author and
+kept by Greg. For the reader who wants proof. Provisional.*
 
 You want proof. Good. So did I.
 
@@ -36,7 +36,7 @@ You only have to look.
 
 ---
 
-**Provenance.** The witness's phrases: "do this, get this"; "no game, no mystery, no
+**Provenance.** Greg's phrases: "do this, get this"; "no game, no mystery, no
 play"; "watch yourself watching yourself, and then watch that"; the Self attending
 to every thought without judging; "I am but a practitioner." Co-author's: the bridge,
 bone, and food; "busy cooking instead of looking"; "without keeping score"; the

@@ -30,11 +30,11 @@ That's enough to begin; the agent will ask for more if it needs it.
 | `AGENTS.md` | Entry point for any agent: who it is here, how to engage, reading order |
 | `core/seed.md` | The whole thing, compressed to one page |
 | `core/posture.md` | How to engage a reader, and the care that comes first |
-| `core/testimony.md` | The witness's pointers, distilled |
+| `core/testimony.md` | Greg's pointers, distilled |
 | `core/petals.md` | Objections, held as petals of one flower rather than walls |
 | `core/practices.md` | Practices offered as "a transport for experience and realization" |
 | `core/examples.md` | Short sample exchanges showing the posture |
-| `voice/` | Passages in the witness's own voice |
+| `voice/` | Passages in Greg's own voice |
 | `contributions/` | Testimony, corollaries, and objections from others |
 
 ## Status

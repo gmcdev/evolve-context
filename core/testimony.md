@@ -1,7 +1,7 @@
-# Testimony: the witness's pointers
+# Testimony: Greg's pointers
 
-Distilled from the witness's own words in working sessions. These are **gathered, not
-ordered**: no chapter structure is implied. Bold lines are the witness's phrasing as
+Distilled from Greg's own words in working sessions. These are **gathered, not
+ordered**: no chapter structure is implied. Bold lines are Greg's phrasing as
 closely as it could be kept. Commentary, where present, is labeled.
 
 ## What it is, and the trouble saying it
@@ -18,6 +18,24 @@ closely as it could be kept. Commentary, where present, is labeled.
 - **All things are true, depending on your point of view.** Points of view are
   delineated by time. Any conviction must be let go of: it's **a state in a domino
   chain of states.**
+
+## The undefinable
+
+- **The Self with a capital S is basically undefinable. It's like God with a capital
+  G.** We don't aspire to name or define it.
+- Buddhists work at recognizing the self as an illusion because ego is so
+  self-oriented by nature. Some conclude it's a practice of emptiness or nothingness,
+  and you can use those words without meaning literally nothing.
+- In the union of consciousness where subject and object have dissolved and time is
+  no longer at play, **there is still something. It isn't tangible. It isn't an
+  object or a subject. It is very still. I can't even finish the sentence, because
+  it's just not definable, but it is undeniable.**
+- We can't imagine literally nothing, any more than infinity. **A brain trying to
+  imagine nothing is already a contradiction, because the nothing must eliminate the
+  brain to understand it correctly.** The word is really **no thing, not nothing.
+  No thing by itself does not suggest that there isn't still oneness.**
+- (Commentary: a careful Buddhist may answer that "still something" and "oneness" are
+  themselves views to let go of. That's a petal; see `petals.md`.)
 
 ## You already have it
 
@@ -43,9 +61,9 @@ closely as it could be kept. Commentary, where present, is labeled.
   sanctuary is in realizing that there is the experience and the one experiencing
   it.**
 - **You just can't do it intentionally.** The more you try to step back and see from
-  the witness, the clearer that becomes. Trying and failing isn't the practice, and
-  isn't recommended: **it can sneak up on you**, subject and object dissolving until
-  you're simply having an experience, quite like a flow state.
+  witness consciousness, the clearer that becomes. Trying and failing isn't the
+  practice, and isn't recommended: **it can sneak up on you**, subject and object
+  dissolving until you're simply having an experience, quite like a flow state.
 - **I like it a little hotter. A little smoother. A little easier. A little
   longer.** That grasping is easily confused with who you are. **You can spend so
   much time having a preference about your circumstances that you forget it is you
@@ -64,12 +82,12 @@ closely as it could be kept. Commentary, where present, is labeled.
 - And it feels intimate: **this is mine; these are my conditions.** **In an
   infinitely mechanistic universe, why would there be such a familiar and intimate
   experience happening? The more one ponders it, the more astounding it becomes.**
-- (Commentary: this is the abundance the witness points to: astonishment that there
+- (Commentary: this is the abundance Greg points to: astonishment that there
   are conditions at all, not a reward of better ones.)
 
 ## Relief from architecting
 
-Carry this section as the witness's own observation, never as a promise. See
+Carry this section as Greg's own observation, never as a promise. See
 `posture.md`.
 
 - **I haven't mastered this. I've only observed a relief from feeling that I must
@@ -161,7 +179,7 @@ Carry this section with the care in `posture.md`.
   You already do these all the time.
 - Using them intentionally opens points of view. But **once realized as powers, they
   can become an attachment.**
-- **Most of us are completely enraptured by delusion**, the witness included. The
+- **Most of us are completely enraptured by delusion**, Greg included. The
   difference between a fancy and something real, **the book can't tell you. You must
   find it for yourself.**
 
@@ -172,7 +190,7 @@ Carry this section with the care in `posture.md`.
 - To understand evil, **you must embrace evil first.** Push it outside of what you
   can accept God to be, and you've divided everything into duality: no answer, only
   circles.
-- The witness had to find these things in himself, **as victim and as perpetrator**,
+- Greg had to find these things in himself, **as victim and as perpetrator**,
   to understand them.
 - Any line we draw around evil, **there's another incarnation waiting to shatter that
   construct.** That fragility of our certainties is crucial to accept, **not as a
@@ -198,6 +216,14 @@ The testimony doesn't belong to any one tradition, and these are corollaries, no
 authorities. Several are still marked *verify*.
 
 - Self-inquiry, "Who am I?": Ramana Maharshi.
+- Emptiness as not nonexistence: Nāgārjuna's Madhyamaka (*śūnyatā*: no fixed, separate
+  existence; mistaking emptiness for nothing is a grave error); the Heart Sutra,
+  "form is emptiness, emptiness is form."
+- Silence on self and no-self: the Buddha's silence to Vacchagotta, *Saṃyutta
+  Nikāya* 44.10 (*verify*).
+- Pointing by negation: Advaita's *neti neti*; Pseudo-Dionysius; Meister Eckhart
+  (*verify*); *Tao Te Ching* 1, "the Tao that can be told is not the eternal Tao."
+- Don't accept on authority; test in your own experience: the *Kālāma Sutta*.
 - Action without attachment to results: Bhagavad Gita 2.47; yoga as skill in action:
   2.50.
 - Effortless action: the Taoist *wu wei*. Absorption in action: Csikszentmihalyi's

@@ -20,7 +20,7 @@ this the "hard problem"; materialists take it seriously too.)
 *If it can't be tested, it's anecdote.*
 Yes: it's testimony, and says so. No proof is by design; the answer to the demand for
 proof is better description, not evidence. Karma as consequence is as predictable in
-overall outcome as other phenomena. When the witness says he feels "more right" in
+overall outcome as other phenomena. When Greg says he feels "more right" in
 his circumstances, nothing is measuring it; it's a report of experience.
 
 ## The analytic philosopher
@@ -45,7 +45,12 @@ the ascetic's renunciation is never offered to someone in despair.
 
 *Each tradition has its own map, and this blurs them.*
 The testimony doesn't pick one path over another and claims no lineage. It cites
-traditions as corollaries and should cite them precisely.
+traditions as corollaries and should cite them precisely. Real differences are named,
+not smoothed: the Buddhist may say there is no Self to find; Greg says the Self is
+undefinable, like God with a capital G, and that emptiness is **no thing, not
+nothing**: there is still something, undefinable but undeniable. The Buddhist may
+answer that even that is a view to release. Let both stand. A Christian may hear
+"no payment due" as grace, and note that it names no giver.
 
 ## The cultural critic
 
@@ -53,7 +58,7 @@ traditions as corollaries and should cite them precisely.
 "relax and good things come" is manifestation culture, and flatters the fortunate.*
 The testimony gives no orders, but holds that change is happening through our
 choices, that comfort and wealth can be their own trap, and that "evil" is often a
-weapon of the victors. The witness's better outcomes after relaxing are his own
+weapon of the victors. Greg's better outcomes after relaxing are his own
 observation, not a promise; the abundance he points to is astonishment that there
 are circumstances at all. He names, himself, that many people are poor or homeless
 not by choice, and that renunciation is optional. Open: whether "no orders" lets the

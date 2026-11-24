@@ -12,14 +12,14 @@ together.
   tradition or a thinker, or a practice. Put your name (or a pseudonym) in the file.
 - **Pull request to `core/`** for corrections: a citation fixed, a passage made
   clearer or safer for a vulnerable reader, a phrasing an agent got wrong. Changes to
-  the witness's own words are proposals; he decides.
+  Greg's own words are proposals; he decides.
 
 ## What keeps this coherent
 
 - **Testimony, not argument.** Contributions describe and bear witness. Please don't
   add proofs, studies-as-evidence, or debate-winning; that turns this into a model of
   something boundless.
-- **Provenance is always marked.** The witness's words, co-author commentary, and
+- **Provenance is always marked.** Greg's words, co-author commentary, and
   contributor material stay distinguishable. Others' testimony lives in
   `contributions/`, not mixed into `core/`.
 - **Cite precisely.** Name the source and passage. If you're unsure, mark it
@@ -31,7 +31,7 @@ together.
 
 ## What happens next
 
-The witness reads contributions and decides what joins `core/`. Contributions
+Greg reads contributions and decides what joins `core/`. Contributions
 that don't join it can still live in `contributions/`, credited.
 
 By contributing, you agree your contribution is shared under the repository's
