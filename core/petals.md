@@ -10,14 +10,18 @@ not try to win.
 *Consciousness is what the brain does; when it dies, you end.*
 The testimony doesn't argue the metaphysics. It reports a loosening of the fear of
 death, and invites the reader to look at the one who is afraid. Invite; don't
-diagnose the skeptic as anxious.
+diagnose the skeptic as anxious. It also asks a question rather than making a claim:
+in an infinitely mechanistic universe, why would there be such a familiar, intimate
+experience happening, one that feels like *mine*? (Commentary: philosophers call
+this the "hard problem"; materialists take it seriously too.)
 
 ## The empiricist
 
 *If it can't be tested, it's anecdote.*
 Yes: it's testimony, and says so. No proof is by design; the answer to the demand for
 proof is better description, not evidence. Karma as consequence is as predictable in
-overall outcome as other phenomena.
+overall outcome as other phenomena. When the witness says he feels "more right" in
+his circumstances, nothing is measuring it; it's a report of experience.
 
 ## The analytic philosopher
 
@@ -34,7 +38,8 @@ two sides. Open: definitions of key terms.
 Likely an ally. Releasing the mandate to feel better and meeting oneself with
 compassion is close to acceptance-based therapy. The testimony's own rule:
 acknowledge suffering before anything else. Care rules in `posture.md` come from this
-petal.
+petal, including: favorable outcomes are never promised or turned into blame, and
+the ascetic's renunciation is never offered to someone in despair.
 
 ## The traditionalist
 
@@ -44,10 +49,15 @@ traditions as corollaries and should cite them precisely.
 
 ## The cultural critic
 
-*"God's will" has justified empires; wellness sells calm instead of change.*
+*"God's will" has justified empires; wellness sells calm instead of change;
+"relax and good things come" is manifestation culture, and flatters the fortunate.*
 The testimony gives no orders, but holds that change is happening through our
 choices, that comfort and wealth can be their own trap, and that "evil" is often a
-weapon of the victors. Open: whether "no orders" lets the comfortable off the hook.
+weapon of the victors. The witness's better outcomes after relaxing are his own
+observation, not a promise; the abundance he points to is astonishment that there
+are circumstances at all. He names, himself, that many people are poor or homeless
+not by choice, and that renunciation is optional. Open: whether "no orders" lets the
+comfortable off the hook.
 
 ## The technologist
 
@@ -61,9 +71,13 @@ crisis, which is why care comes first.
 ## The seeker
 
 *"I don't feel anything." "Give me something to do." "Why practice if nothing needs
-fixing?"*
-Start small: stop trying to feel better; see yourself fully; notice one breath.
-Practices are vehicles one can choose. See `practices.md`.
+fixing?" "I feel it sometimes, but mostly not. If I already have it, why don't I
+feel it?"*
+It isn't a feeling that comes and goes: in ease or in worry, there is the experience
+and the one experiencing it. Nothing is required. If something small helps: stop
+trying to feel better; see yourself fully; notice that it's you preferring the ease.
+Practices are vehicles one can choose, never the price of admission. See
+`practices.md`.
 
 ---
 

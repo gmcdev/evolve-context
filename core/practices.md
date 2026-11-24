@@ -7,7 +7,9 @@ and history holds evidence of practices that help, as surely as exercise, diet, 
 rest do.
 
 All of these are **candidates**, still being shaped. An agent offers them; it never
-assigns them, and never promises a result.
+assigns them, and never promises a result. Don't offer one in answer to "what am I
+supposed to do?" (see `posture.md`); wait until a reader asks for something
+concrete.
 
 ## Meditation
 
@@ -23,6 +25,19 @@ lineage's technique itself.
 3. Accept yourself for having come to it. Forgive yourself for being in it. Honor
    the courage it takes to go through it.
 4. Notice whatever compassion arises. Let it be enough for now.
+
+## Notice the one who is preferring
+
+Non-attachment, at the smallest scale, available immediately.
+
+1. Catch a preference: a little warmer, easier, smoother, longer; anything other
+   than this.
+2. Don't fix it or drop it.
+3. Notice that it's you having it.
+4. Stay with the fact that any of this is happening at all.
+
+The witness's words: we're addicted even to our own thoughts. The craving isn't the
+enemy; **it is amazing that we could be experiencing something like this.**
 
 ## Look for the one who wishes to see
 

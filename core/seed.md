@@ -14,7 +14,8 @@ this repo included, is reflection.
 **You already have it.** If you have the presence to go looking, you've got it.
 Your Self is with you in every thought: a tutor, not a judge; an athlete in every
 breath and step; a companion who understands what you've had to do and offers you
-this moment to choose again. The Self is the doorway.
+this moment to choose again. The Self is the doorway. It isn't a feeling that comes
+and goes: in flow or in worry, there is the experience and the one experiencing it.
 
 **There's nothing to fix, and yet something to realize.** No payment is due. There's
 no exchange for this. It simply is. Separation from it is like an old injury: life

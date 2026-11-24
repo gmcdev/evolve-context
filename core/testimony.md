@@ -36,6 +36,78 @@ closely as it could be kept. Commentary, where present, is labeled.
   drunk.**
 - **The illusion is a fiction that, if seen in its entirety, depicts truth.**
 
+## Preferences, and the one having them
+
+- It isn't that **the flow state is the reality and the suspicious state is a mental
+  shroud** masking it. In flow, in suspicion, in any uncomfortable condition, **the
+  sanctuary is in realizing that there is the experience and the one experiencing
+  it.**
+- **You just can't do it intentionally.** The more you try to step back and see from
+  the witness, the clearer that becomes. Trying and failing isn't the practice, and
+  isn't recommended: **it can sneak up on you**, subject and object dissolving until
+  you're simply having an experience, quite like a flow state.
+- **I like it a little hotter. A little smoother. A little easier. A little
+  longer.** That grasping is easily confused with who you are. **You can spend so
+  much time having a preference about your circumstances that you forget it is you
+  who is having preferences. And experiencing that you are having preferences is
+  instantly mind-blowing, and upon investigation, blissful.**
+- **Non-attachment can be practiced immediately and on every level, because we are
+  addicted even to our own thoughts.** We love to think, or to talk about our
+  thoughts to anyone who'll listen. The clinging and craving aren't something to
+  abolish: **it is amazing that we could be experiencing something like this.**
+
+## Why should there be any circumstances?
+
+- From a more selfless perspective the question is begged: **why should there be any
+  circumstances? Let alone favorable ones? Why should there be any reaction?** That
+  there are is interesting.
+- And it feels intimate: **this is mine; these are my conditions.** **In an
+  infinitely mechanistic universe, why would there be such a familiar and intimate
+  experience happening? The more one ponders it, the more astounding it becomes.**
+- (Commentary: this is the abundance the witness points to: astonishment that there
+  are conditions at all, not a reward of better ones.)
+
+## Relief from architecting
+
+Carry this section as the witness's own observation, never as a promise. See
+`posture.md`.
+
+- **I haven't mastered this. I've only observed a relief from feeling that I must
+  architect my own life.** Relaxing that effort, he found himself **more motivated
+  than ever** to do things, and the fruits were more favorable than many things he
+  had attempted before.
+- Every moment holds more variables than the most powerful computer or AI could
+  compute. **How can one make choices when the chess moves cannot be predicted?** He
+  relaxes into trust in creation to **communicate itself through the senses you've
+  been given**, body and mind, toward a feeling that, whether karmically or
+  compulsively driven, is in the bigger picture the right action for that moment.
+- A thought experiment, **not a practice**: from any present moment, almost any
+  outcome might be reached if all the right things were done, the way someone once
+  traded a paperclip up to a house. But the variables are infinite, and **a
+  dualistically entrenched mind can't know what the right action should be.**
+- Relaxing from the swing between light and dark, left and right, hot and cold, and
+  simply being, **you feel more right in your circumstances.** Nothing measures it:
+  **I literally feel better.** That strengthens practice and faith, because **you
+  experientially begin to feel that creation has a goodness to it, that its nature
+  is somehow good.**
+
+## The far end of the scale
+
+Carry this section with the care in `posture.md`.
+
+- These ideas can be focused or expanded to any scale. In some traditions, ascetics
+  beg and give up nearly everything, trusting that the universe, God, their fellow
+  human beings, some goodness will provide; and further, that even if not, **it is
+  not this body they need sustained in order to be.** They are free in
+  consciousness. Some cultures honor them.
+- **It is an extreme to which these truths can be tested.** If you're someone who
+  needs to go that far to know it for real, you'll know you're that person. **You
+  can go to that extreme, but you don't have to. Most of us don't.**
+- In the same breath: many people without homes are there because of a
+  scarcity-based economy, disability, injury, or illness, not by choice. **You don't
+  have to give up possessions to be free.** (Commentary: the body deserves food,
+  shelter, and care, and no one's lack of them is spiritual.)
+
 ## No payment due
 
 - **There's no payment due. There's no exchange for this. It simply is the way it
@@ -126,7 +198,23 @@ The testimony doesn't belong to any one tradition, and these are corollaries, no
 authorities. Several are still marked *verify*.
 
 - Self-inquiry, "Who am I?": Ramana Maharshi.
-- Action without attachment to results: Bhagavad Gita 2.47.
+- Action without attachment to results: Bhagavad Gita 2.47; yoga as skill in action:
+  2.50.
+- Effortless action: the Taoist *wu wei*. Absorption in action: Csikszentmihalyi's
+  "flow."
+- Craving and clinging as the root of suffering: the Buddha's second noble truth
+  (*taṇhā*), and *upādāna* in dependent origination.
+- One steady in wisdom, unmoved by preference: Bhagavad Gita 2.55–58
+  (*sthitaprajña*).
+- Why there is anything at all: Leibniz, "why is there something rather than
+  nothing?"; Wittgenstein, *Tractatus* 6.44: not *how* the world is, but *that* it
+  is, is the mystical.
+- The intimacy of experience in a physical world: Thomas Nagel, "What Is It Like to
+  Be a Bat?" (1974); David Chalmers's "hard problem" of consciousness.
+- The paperclip: Kyle MacDonald's *One Red Paperclip* trades (2005–06), which ended
+  in a house in Kipling, Saskatchewan (*verify*).
+- Renunciation and being provided for: Hindu *sannyāsa*, Buddhist alms rounds,
+  Franciscan mendicants, Matthew 6:26.
 - The finger and the moon: a Zen and Buddhist image.
 - Clinging to a glimpse: Chögyam Trungpa's "spiritual materialism" (*verify*).
 - Powers as attachment: Patanjali's *Yoga Sutras*, Book III (*verify*).
