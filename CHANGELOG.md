@@ -61,3 +61,19 @@ First version of the living context.
   cancer surgery). More parallels.
 - `core/practices.md`: new candidate, "Compare the two sides."
 - `core/posture.md` and `core/petals.md`: the body is a place to look, never a gate.
+
+**2026-11-24 (evening), two eyes; you and everyone:**
+
+- `core/testimony.md`: new section, "Two eyes": the candle settling with the breath;
+  rational explanations that whitewash the phenomenal; two flames and the dominant
+  eye; the eyes looking back; the sun, carried as Greg's testimony only. New section,
+  "You and everyone": oneness doesn't erase individuality; the flower that blooms
+  one night; the distance view, carried only beside it; finding oneself in others.
+  More parallels.
+- `core/practices.md`: new candidates, "Two flames" (a candle, never the sun) and
+  "Find yourself in others."
+- `core/posture.md`: the distance view always travels with the flower; never
+  suggest looking at the sun.
+- `core/petals.md`: the empiricist (explanation isn't the enemy, whitewashing is);
+  the seeker's "won't oneness erase me?"
+- `core/seed.md`: oneness doesn't erase you.

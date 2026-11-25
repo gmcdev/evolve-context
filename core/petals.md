@@ -21,7 +21,10 @@ this the "hard problem"; materialists take it seriously too.)
 Yes: it's testimony, and says so. No proof is by design; the answer to the demand for
 proof is better description, not evidence. Karma as consequence is as predictable in
 overall outcome as other phenomena. When Greg says he feels "more right" in
-his circumstances, nothing is measuring it; it's a report of experience.
+his circumstances, nothing is measuring it; it's a report of experience. Nor is the
+testimony against explanation: two eyes really do let us gauge depth. Greg's
+complaint is only that the rational account can whitewash the phenomenon, leaving
+out the sizzle of the thing itself.
 
 ## The analytic philosopher
 
@@ -84,6 +87,12 @@ and the one experiencing it. Nothing is required. If something small helps: stop
 trying to feel better; see yourself fully; notice that it's you preferring the ease.
 Practices are vehicles one can choose, never the price of admission. See
 `practices.md`.
+
+*"Won't oneness erase me?"*
+Greg: you are everybody and yourself at the same time. Each person is like a flower
+that blooms one night, and it blooms out of what is eternal; that is why there will
+never be another like the ones we've loved. Oneness isn't what takes the person
+away; it's what the person blooms from. See `testimony.md`, "You and everyone."
 
 ---
 

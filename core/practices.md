@@ -53,6 +53,33 @@ Balance here is sensed, not measured. A body that can't be made symmetrical (age
 injury, surgery, illness) can still be felt and compared. And if the body isn't an
 open door for someone, the mind is as worthy an avenue.
 
+## Two flames
+
+Greg's first meditation, before he knew much about meditation.
+
+1. Sit with a candle on a table a few feet away, in a room with few drafts.
+2. Watch the flame dance. Notice whether it settles as your breath and body settle.
+3. Relax your eyes and look past it, until the one flame becomes two.
+4. Notice if one image weighs more in your mind. Give the other equal attention.
+5. If it comes, let the two flames be equally bright, and rest your gaze in the
+   space between them.
+
+A candle, or the moon. **Never the sun**: looking at it can permanently damage the
+eyes at any hour, sunrise included, and sunglasses don't make it safe. If your eyes
+strain, stop. Choose to look, and choose to look away.
+
+## Find yourself in others
+
+Greg's way into the question "if it's all one, why so much individuality?"
+
+1. Notice how someone's personality shows itself: a habit, a temper, a kindness.
+2. Look for yourself in it.
+3. Notice what you can't find. Hold it as a choice made in this one life, not a
+   verdict on anyone.
+4. Notice that what you share and what is yours alone bloomed from the same nature.
+
+Never as self-judgment, and never a way to rank people.
+
 ## Look for the one who wishes to see
 
 While reading, deciding, or wanting, notice the one doing it. Not the verdict: the

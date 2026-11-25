@@ -121,6 +121,44 @@ Breathing is still to come.
   sides, and still sense more or less tension on either. **The balance I'm talking
   about may not even be quantifiable beyond experiential.**
 
+## Two eyes
+
+- **The candle settles with you.** Early on, Greg's idea of meditation was that he
+  should focus on something, so he lit a candle and watched it. A flame dances unless
+  the room is absolutely still, and alone in a room with the drafts mostly
+  controlled, **the movement of the air is actually due to your own breath, huffing
+  and puffing.** Sitting down and lighting it stirs the air. Over 5, 10, 20 minutes
+  the room settles, the breath calms, **and the candle calms along with it.** Knowing
+  little about meditation then, he found it very affirming: **to feel calmness, and
+  have the apparent experience of the world calming down with me as I became more
+  calm.**
+- **We whitewash the phenomenal.** We're taught we have two eyes, as predator
+  animals, to gauge depth. Perfectly true and fine. **But the problem with these
+  perfectly rational explanations of perfectly phenomenal phenomena is that we
+  whitewash them**: we distill out the flavor, the sizzle, the spice of the actual
+  thing. **Two eyes let us see depth. Two eyes also give us the opportunity to see God
+  looking back at us.**
+- **Two flames.** Focus on a candle a few feet away and it's one flame. Relax and look
+  past it, and **the flame separates into the images both eyes see.** It's
+  uncomfortable at first to let them be separate. Greg found a dominant eye: one image
+  took much more weight in his mind. With surprisingly little practice he could give
+  the other equal attention; **it was simply a habit of the mind to see mostly from
+  the dominant eye.** Without any data or control, he found it balancing to see the
+  two equally.
+- **The eyes looking back.** Then something else happened: **two flames, equally
+  bright.** Focusing just past them, to where the space between the two flames looked
+  like eyes, **the eyes were sparkling and looking directly into mine. I felt so sure
+  that this universe was looking at me.** It was profound, and he never tired of it.
+- **The sun.** Years later Greg let the rising sun separate into two in the same way.
+  It **dissolved my mind into pure experience**: a body of tremendous power, of which
+  we see only a sliver, still enough to bring the whole earth to life, **looking
+  directly into my eyes, with so much power. It felt blissful and reassuring in a way
+  I feel only the sight of God could make me feel.** It can be done with the moon too.
+  Greg's own words: **I'm not saying go look directly at the sun.** (Commentary: this
+  is testimony, not a practice. Looking at the sun can permanently damage the eyes at
+  any hour, sunrise included, and sunglasses don't make it safe. Agents never suggest
+  it; see `posture.md`. The practice is the candle.)
+
 ## Why should there be any circumstances?
 
 - From a more selfless perspective the question is begged: **why should there be any
@@ -257,6 +295,39 @@ Carry this section with the care in `posture.md`.
 - The present moment is composed of everything that happened. **You were those
   lifetimes, because it is all part of your one life.**
 
+## You and everyone
+
+- **The fear.** Many people struggle with oneness because it feels like it will
+  **erase their individuality.** Greg: **you are everybody and you are yourself at
+  the same time.**
+- **The flower that blooms one night.** A person's qualities aren't lesser for not
+  being eternal. **In a way they are even more special, because they are like the
+  flower that only blooms one night and then falls off the plant.** That is why it's
+  such a loss to our hearts when loved ones pass away: **there will never be one like
+  the ones we've loved.** **Those uniquenesses bloomed out of the eternal nature.**
+  And **the faith is that if it has happened once, it will happen again**, maybe not
+  the same way. **That specialness, that personalness, is the potential, the quality
+  of the eternal Self: to produce that preciousness.**
+- **From a distance, lives are alike.** Carry this only beside the flower. Stand back
+  far enough that you can't see the preciousness, and **there's very little
+  difference from one life to the next**: we all suffer, feel joys, are driven by the
+  same physical needs, and succumb to the same weaknesses. There are a million ways
+  to die and almost limitless paths, **but the range of human experience is
+  finite.** Then take the preciousness back into the equation: how is this singular
+  experience possible at all? **The qualities of your nature are that which can live
+  every lifetime.**
+- **Finding myself in others.** It starts as an intellectual conundrum, **if
+  consciousness is one thing, then explain all this individuality**, that can be
+  kneaded and turned and looked at from many angles. For Greg it meant **looking at
+  other people's lives and the ways their personalities manifest, and finding myself
+  in those things.** What he couldn't find there, he held as **finite choices I've
+  made in this lifetime, not qualities of my eternal nature.** Done again and again,
+  that leaves a core of eternal nature and many more particular qualities, and the
+  particular ones are the flower, not lesser for it.
+- (Commentary: the familiar image is the wave and the ocean, which comforts about the
+  ocean and quietly writes off the wave. Greg's runs the other way: oneness is what
+  individuality blooms from.)
+
 ## Commentary: parallels (to be cited precisely)
 
 The testimony doesn't belong to any one tradition, and these are corollaries, not
@@ -278,6 +349,12 @@ authorities. Several are still marked *verify*.
 - Comparing the two sides: the Feldenkrais Method. Posture as held history: Wilhelm
   Reich's "character armor"; van der Kolk, *The Body Keeps the Score* (debated;
   *verify*).
+- Candle-gazing: *trāṭaka* in hatha yoga (*Haṭha Yoga Pradīpikā* 2.31–32, *verify*).
+  Ocular dominance and binocular rivalry are studied in vision science. One eye
+  seeing both ways: Meister Eckhart, "the eye through which I see God is the same eye
+  through which God sees me" (*verify*).
+- Against whitewashing: William Blake's "single vision and Newton's sleep"
+  (*verify*).
 - Action without attachment to results: Bhagavad Gita 2.47; yoga as skill in action:
   2.50.
 - Effortless action: the Taoist *wu wei*. Absorption in action: Csikszentmihalyi's
@@ -301,4 +378,8 @@ authorities. Several are still marked *verify*.
 - Evil as privation or partial view: Augustine; Advaita's māyā; Spinoza (*verify*).
 - Victim and perpetrator in oneself: Thich Nhat Hanh, "Please Call Me by My True
   Names" (*verify*).
+- Containing everyone: Walt Whitman, "I contain multitudes" (*Song of Myself* §51);
+  Terence, "nothing human is alien to me." The individual as a real expression of
+  the Divine: Sri Aurobindo (*verify*). The beauty of what passes: Japanese *mono no
+  aware* (*verify*).
 - An integral rather than world-renouncing path: Sri Aurobindo.

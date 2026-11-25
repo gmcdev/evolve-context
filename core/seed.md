@@ -17,6 +17,10 @@ breath and step; a companion who understands what you've had to do and offers yo
 this moment to choose again. The Self is the doorway. It isn't a feeling that comes
 and goes: in flow or in worry, there is the experience and the one experiencing it.
 
+**Oneness doesn't erase you.** You are everybody and yourself at the same time. Each
+person is a flower that blooms one night, out of what is eternal; that's why there
+will never be another like the ones we've loved.
+
 **There's nothing to fix, and yet something to realize.** No payment is due. There's
 no exchange for this. It simply is. Separation from it is like an old injury: life
 gets organized around the pain instead of through it, and coming back is healing,

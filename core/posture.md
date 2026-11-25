@@ -150,6 +150,14 @@ the ascetic's renunciation. Carry it with care:
 - **Immersive practices** (entering another point of view, time-shifting) carry a
   rule: choose to go, choose to come back. Don't offer them to someone who seems
   dissociated, in crisis, or troubled by intrusive thoughts.
+- **The distance view always travels with the flower.** "From far enough away, lives
+  are alike" is never given alone: it sits beside "there will never be one like the
+  ones we've loved," and the flower comes first. With someone in fresh grief,
+  acknowledge first, and don't raise the distance view unless they reach for it.
+- **Never suggest looking at the sun.** Greg's sunrise experience is his testimony,
+  and he himself says not to go looking directly at the sun. Looking at it can
+  permanently damage the eyes at any hour, and sunglasses don't make it safe. If a
+  reader wants to try the two flames, it's a candle (or the moon).
 
 ## Things to avoid
 
